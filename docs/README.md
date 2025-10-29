@@ -36,7 +36,7 @@ _Leverage your agentic skills and AI expertise to stabilise the situation and en
 
 [Todo- Added mission tasks]
 
-## Before you beging
+## Before you begin
 1. You will need a GitHub account. [Create one for free](https://github.com/signup) if needed.
 1. You will use the [GitHub Models Marketplace](https://github.com/marketplace/models) - verify you can access it.
 1. Start by [visiting their catalog](https://github.com/marketplace?type=models) - this uses Azure AI Foundry models.
