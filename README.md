@@ -13,12 +13,15 @@ Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 
 - Choose your AI model, define your agent’s persona, and tackle tasks in image, text, or audio.
 - Submit your agent details and contest answers for a chance to win!
 
-### Key components of agent instructions:
-- **Purpose**
-- **General guidelines** (directions, tone, restrictions)
-- **Skills**
+## What makes a winning agent in Mission Agent Possible?
 
-So, what are you waiting for? **Unleash your creativity, write your best agent instructions, and submit your prompt for a chance to win amazing prizes! 🥳**
+- **Mission Focus**: Define your agent’s role in solving Trey Marketing’s product launch crisis.
+- **Persona & Approach**: Set the agent’s personality, tone, and strategy for tackling urgent tasks.
+- **Model Selection**: Choose the AI model that best fits your mission—explain your reasoning!
+- **Task Execution**: Show how your agent handles image analysis, text communication, or audio transcription under pressure.
+- **Safety & Efficiency**: Include safety measures and aim for cost-effective solutions (Bonus).
+
+So, what are you waiting for? Unleash your creativity, build your agent, and submit your solution to prove you can crack the toughest mission! 🥳
 
 The contest runs from **Nov 18 to Nov 20**.  
 **Submission deadline:** Nov 20 at 12:00pm (noon) PST.  
