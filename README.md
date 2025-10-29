@@ -1,4 +1,5 @@
-<img width="1737" height="593" alt="contest_banner" src="https://github.com/user-attachments/assets/e139be90-1ba9-48e0-be3a-e59a372ebcd3" />
+<img width="1735" height="576" alt="2025-10-29_11-37-35" src="https://github.com/user-attachments/assets/83b6f9ff-eae0-441f-8806-841588d82e12" />
+
 
 
 # ✨ Contest Details
