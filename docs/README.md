@@ -34,21 +34,12 @@ You are the AI strategist at Trey Marketing Inc., a fast-growing start-up prepar
 
 _Leverage your agentic skills and AI expertise to stabilise the situation and ensure a successful launch. Build intelligent agents that can address urgent challenges, fix defects, manage internal communications, and deliver actionable solutions under extreme time constraints_
 
+[Todo- Added mission tasks]
 
-## Your Team
-
-To complete the mission you will need help from two different sources:
-- Models - pick the right AI model for the task
-- Tools - connect the right tools to add knowledge or perform actions
-
-### 1. Models
-
-For this contest, we recommend using the GitHub Models marketplace to explore options. It is free (but rate-limited) - and should give you sufficient quota to try your ideas. 
-
+## Before you beging
 1. You will need a GitHub account. [Create one for free](https://github.com/signup) if needed.
 1. You will use the [GitHub Models Marketplace](https://github.com/marketplace/models) - verify you can access it.
 1. Start by [visiting their catalog](https://github.com/marketplace?type=models) - this uses Azure AI Foundry models.
-
 
 Use the filters to find the right model for your needs:
 
@@ -61,19 +52,5 @@ Use the filters to find the right model for your needs:
     - Audio - for support speech 
     - Reasoning - for supporting complex use cases
     - Multilingual - for supporting queries in different languages
-
-**EXAMPLES**
-
-1. Set Published to Azure Open AI
-1. Set Capability to Chat/Completion
-1. Set Category to:
-    - **Reasoning** - example: [o3-mini](https://github.com/marketplace/models/azure-openai/o3-mini)
-    - **Multimodal** - example: [gpt-5](https://github.com/marketplace/models/azure-openai/gpt-5)
-
-Once you find a model to try - click **Try In Playground** to see it live and use prompts to validate your ideas.
-
-
-
-### 2. Tools
-
-Did you know about the [GitHub MCP Registry](https://github.com/mcp). While we won't be using these tools with the GitHub Models Playground - but we encourage you to explore them and think about what tools might be valuable to add to your model later, if you try to develop the idea with code.
+    
+Visit [https://aka.ms/models-blog](https://aka.ms/models-blog) for a detailed blog on how to test your prompt with various models.
