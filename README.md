@@ -30,7 +30,8 @@ Submissions after this deadline are not eligible.
 
 ## ✍️ How to Submit
 
-Before submitting, read through the [eligibility guidance](https://aka.ms/can-I-win) and make sure you understand the requirements.
+Before submitting please make sure you understand the requirements. Anyone can submit and will be given a chance to showcase their work at [Model Mondays](https://developer.microsoft.com/en-us/reactor/series/s-1485/)!
+You have to be an in-person attendee at Microsoft Ignite 2025 to win a prize. Please read through the [eligibility guidance](https://aka.ms/can-I-win).
 
 ### Your mission (should you choose to accept)
 You are the AI strategist at Trey Marketing Inc., a fast-growing start-up preparing for its first major product launch. Moments before the launch, critical issues emerge, threatening to derail months of hard work.
@@ -47,20 +48,15 @@ _Leverage your agentic skills and AI expertise to stabilise the situation and en
 
 There are multiple prize categories, including:
 - **Main Winner:** Top submission
-- **Honourable Mentions:** Most Dramatic Agent, Best Model Selection, Fastest Fixer, Sassiest AI Personality
+- **Honourable Mentions:** Most Dramatic Agent, Best Model Selection, Fastest Fixer, Best Start-up Idea
 
 
 ## 💡 Learning Resources
 
 Need help choosing the right model?
 
-- Check out [https://aka.ms/models-blog](https://aka.ms/models-blog) for a quick guide on model selection.
-- Deepdive into labs?
-[Nitya's labs]
-- Watch videos on model selection?
-[Model Mondays video links]
-
-
+- Check out [🎯 Your Model Selection Adventure](https://aka.ms/models-blog) for a quick guide on model selection.
+- Check out more about models on [Model Mondays](https://aka.ms/model-mondays), a reactor series on Models. 
 
 ## Code of Conduct
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -74,3 +70,5 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+![](https://m365-visitor-stats.azurewebsites.net/ignite25-agent-contest?&labelText=Visitors&labelFont=Segoeui,%20sans-serif&labelTextColor=0f797d&labelBackgroundColor=ffffff&counterFont=Segoeui,%20sans-serif&counterTextColor=ffffff&counterBackgroundColor=0f797d)
