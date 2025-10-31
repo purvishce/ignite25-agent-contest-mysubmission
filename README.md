@@ -59,7 +59,7 @@ _Leverage your agentic skills and AI expertise to stabilise the situation and en
 
 > **Hold your position.**  
 > The operation is classified until **18 November 2025**.  
-> Stay alert—your mission will be revealed soon
+> Stay alert—your mission details will be revealed soon
 
 ---
 
