@@ -65,11 +65,24 @@ _Leverage your agentic skills and AI expertise to stabilise the situation and en
 
 ## 🏆 Prizes
 
-There are multiple prize categories, including:
-- **Main Winner:** Top submission
-- **Honourable Mentions:** Most Dramatic Agent, Best Model Selection, Fastest Fixer, Best Start-up Idea
+### 🎯 **Ways to Win**
+- **Main Winner:** 🥇 Top submission takes home an **XBOX**  
+- **Honourable Mentions:**  
+  * Most Dramatic Agent  
+  * Best Model Selection  
+  * Fastest Fixer  
+  * Best Start-up Idea  
+Each earns **\$100 Microsoft Store credit**  
 
 ---
+
+### 🌍 **Virtual Bonus**
+Not attending Microsoft Ignite 2025 in person in San Francisco? Submit your agent for a chance to be **featured on the Model Mondays Podcast**! 🎙️
+
+---
+
+🔥 **Tip:** More categories = more chances to shine. Bring your A-game!
+
 
 ## 💡 Learning Resources
 
