@@ -61,6 +61,17 @@ The engineering team suspects that an **unauthorized model update** might have r
 
 📎 [Download Email PDF](./assets/asset-email.pdf)
 
+---
+
+## 🚀 Submit Your Agent
+
+### Ready to save the launch? Submit now!
+
+### 👉 **[aka.ms/agent-contest/submit](https://aka.ms/agent-contest/submit)**
+
+**Deadline:** November 20, 2025 at 12:00pm (noon) PST
+
+---
 
 
 
