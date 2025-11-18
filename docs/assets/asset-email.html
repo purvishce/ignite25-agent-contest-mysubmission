@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email - Engineering Escalation</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .email-container {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .email-header {
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .email-field {
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        .email-field strong {
+            display: inline-block;
+            width: 80px;
+            color: #666;
+        }
+        .email-subject {
+            font-size: 18px;
+            font-weight: bold;
+            color: #d32f2f;
+            margin-bottom: 15px;
+        }
+        .email-body {
+            line-height: 1.6;
+            color: #333;
+            font-size: 14px;
+        }
+        .email-body p {
+            margin-bottom: 15px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            color: #d32f2f;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .signature {
+            margin-top: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="email-header">
+            <div class="email-subject">🚨 URGENT: Launch blocked — speech model rejecting tokens</div>
+            <div class="email-field"><strong>From:</strong> Madison Kim, Engineer - LaunchOps Team</div>
+            <div class="email-field"><strong>To:</strong> Alex Lee, Engineering Lead</div>
+            <div class="email-field"><strong>Time:</strong> 9:25 AM</div>
+        </div>
+        <div class="email-body">
+            <p>Hi Alex,</p>
+            <p>We've traced the issue. The speech-to-command model currently running was pushed from our <strong>test server</strong> (<code>test-deploy.adatum.com</code>), not the production registry.</p>
+            <p>This version doesn't recognize live API tokens, which is why all devices are refusing commands.</p>
+            <p><span class="highlight">The fix:</span> Disable the test update channel and revert to <strong>v2.8.3</strong>, our last verified production model.</p>
+            <div class="signature">— Madison</div>
+        </div>
+    </div>
+</body>
+</html>
